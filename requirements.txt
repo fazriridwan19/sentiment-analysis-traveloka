@@ -1,0 +1,9 @@
+Flask==1.1.2
+nltk==3.6.1
+Sastrawi==1.0.1
+sklearn
+gunicorn
+Werkzeug
+Jinja2
+itsdangerous
+MarkupSafe
